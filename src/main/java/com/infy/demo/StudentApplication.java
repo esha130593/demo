@@ -1,13 +1,13 @@
-package com.infyGo.flight;
+package com.infy.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FlightApplication {
+public class StudentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FlightApplication.class, args);
+		SpringApplication.run(StudentApplication.class, args);
 	}
 
 }
